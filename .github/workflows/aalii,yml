@@ -1,4 +1,4 @@
-name: ali
+name: aalii
 on:
   workflow_dispatch:
 

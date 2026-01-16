@@ -1,4 +1,4 @@
-name: aaTDC50
+name: aaaTDC50v1
 
 on:
   workflow_dispatch:
